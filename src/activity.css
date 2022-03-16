@@ -1,0 +1,43 @@
+.activity-container{
+    display: flex;
+    content: center;
+}
+.activity-row{
+    display: flex;
+    flex-direction: row;
+    justify-items: start;
+    align-items: center;
+    height: 80px;
+    border-bottom: 1px solid #d7d7d7;
+    width: 900px;
+}
+
+.activity{
+    display: flex;
+    align-items: center;
+    padding-right: 24px;
+    min-width: 300px;
+}
+.activity h1{
+    font-size: 16px;
+    height: 30px;
+    width: 150px;
+    margin-right:10px;
+}
+.activity-data{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.activity-participants{
+    width: 155px;
+}
+
+.activity-link{
+    width: 100%;
+}
+
+.activity-price{
+    width: 155px; ;
+}
