@@ -1,0 +1,18 @@
+.Liste {
+    margin: auto 0;
+}
+
+.yes{
+    margin: 1%;
+    display: flex;
+    
+}
+
+.yes > * {
+
+    margin: 0 1%;
+}
+
+.Form-control{
+    max-width: 300px;
+}
